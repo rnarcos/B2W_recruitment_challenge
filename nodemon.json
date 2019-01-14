@@ -1,11 +1,6 @@
 {
 	"env": {
 		"mongo_db_username": "undefined",
-		"mongo_db_password": "2444666668888888",
-		"NODE_SERVER_PORT": 3000,
-		"NODE_SERVER_ADDRESS": "http://localhost",
-		"MONGO_DB_ADDRESS": "mongodb://localhost",
-		"MONGO_DB_PORT": 27017,
-		"MONGO_DB_DATABASE_NAME": "b2w_rc"
+		"mongo_db_password": "2444666668888888"
 	}
 }
